@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veienlai.github.io/xiazaizhongx/sitemap.xml
